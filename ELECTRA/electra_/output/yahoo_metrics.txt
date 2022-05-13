@@ -1,0 +1,9 @@
+K-Means
+pretrained text representation: {'ACC': 0.104, 'NMI': 0.044, 'ARI': 0.01}
+finetuned text representation: {'ACC': 0.254, 'NMI': 0.333, 'ARI': 0.231}
+FCM
+pretrained text representation: {'ACC': 0.144, 'NMI': 0.031, 'ARI': 0.01}
+finetuned text representation: {'ACC': 0.039, 'NMI': 0.181, 'ARI': 0.089}
+LDA
+pretrained text representation: {'ACC': 0.129, 'NMI': 0.041, 'ARI': 0.014}
+finetuned text representation: {'ACC': 0.123, 'NMI': 0.323, 'ARI': 0.238}

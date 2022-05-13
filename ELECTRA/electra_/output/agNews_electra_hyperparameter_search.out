@@ -1,0 +1,1554 @@
+== Status ==
+Current time: 2022-05-12 17:28:08 (running for 00:00:00.15)
+Memory usage on this node: 5.1/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 0/8 CPUs, 0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (3 PENDING)
++------------------------+----------+-------+-------------+
+| Trial name             | status   | loc   |          lr |
+|------------------------+----------+-------+-------------|
+| _objective_6822e_00000 | PENDING  |       | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |       | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |       | 3.92798e-05 |
++------------------------+----------+-------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:13 (running for 00:00:05.17)
+Memory usage on this node: 6.7/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+[2m[36m(_objective pid=5553)[0m {'loss': 1.39, 'learning_rate': 2.4968593501418515e-05, 'epoch': 0.0}
+== Status ==
+Current time: 2022-05-12 17:28:19 (running for 00:00:11.15)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:24 (running for 00:00:16.17)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:29 (running for 00:00:21.21)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:34 (running for 00:00:26.23)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:39 (running for 00:00:31.27)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:44 (running for 00:00:36.29)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:28:49 (running for 00:00:41.36)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+
+| Trial name             | status   | loc              |          lr |
+|------------------------+----------+------------------+-------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |
++------------------------+----------+------------------+-------------+
+
+
+Result for _objective_6822e_00000:
+  date: 2022-05-12_17-28-54
+  done: false
+  epoch: 1.0
+  eval_ARI: 0.777022401299467
+  eval_NMI: 0.7319665306934631
+  eval_accuracy: 0.90875
+  eval_loss: 0.3443344235420227
+  eval_runtime: 4.3308
+  eval_samples_per_second: 184.724
+  eval_steps_per_second: 92.362
+  experiment_id: 729b7bbb3c374167891e9657fe07d20f
+  hostname: b-3-94
+  iterations_since_restore: 1
+  node_ip: 10.144.0.71
+  objective: 0.777022401299467
+  pid: 5553
+  time_since_restore: 43.55471897125244
+  time_this_iter_s: 43.55471897125244
+  time_total_s: 43.55471897125244
+  timestamp: 1652390934
+  timesteps_since_restore: 0
+  training_iteration: 1
+  trial_id: 6822e_00000
+  
+[2m[36m(_objective pid=5553)[0m {'eval_accuracy': 0.90875, 'eval_NMI': 0.7319665306934631, 'eval_ARI': 0.777022401299467, 'eval_loss': 0.3443344235420227, 'eval_runtime': 4.3308, 'eval_samples_per_second': 184.724, 'eval_steps_per_second': 92.362, 'epoch': 1.0}
+== Status ==
+Current time: 2022-05-12 17:28:55 (running for 00:00:46.96)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:00 (running for 00:00:52.03)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:05 (running for 00:00:57.05)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:10 (running for 00:01:02.13)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5553)[0m {'loss': 0.4745, 'learning_rate': 1.1970352277907781e-05, 'epoch': 1.56}
+== Status ==
+Current time: 2022-05-12 17:29:15 (running for 00:01:07.14)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:20 (running for 00:01:12.19)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:25 (running for 00:01:17.21)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:30 (running for 00:01:22.25)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.90875 |   0.731967 |   0.777022 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00000:
+  date: 2022-05-12_17-29-32
+  done: false
+  epoch: 2.0
+  eval_ARI: 0.7889133013820505
+  eval_NMI: 0.751869002141372
+  eval_accuracy: 0.91375
+  eval_loss: 0.3711204528808594
+  eval_runtime: 4.4156
+  eval_samples_per_second: 181.175
+  eval_steps_per_second: 90.587
+  experiment_id: 729b7bbb3c374167891e9657fe07d20f
+  hostname: b-3-94
+  iterations_since_restore: 2
+  node_ip: 10.144.0.71
+  objective: 0.7889133013820505
+  pid: 5553
+  time_since_restore: 81.52552628517151
+  time_this_iter_s: 37.97080731391907
+  time_total_s: 81.52552628517151
+  timestamp: 1652390972
+  timesteps_since_restore: 0
+  training_iteration: 2
+  trial_id: 6822e_00000
+  
+[2m[36m(_objective pid=5553)[0m {'eval_accuracy': 0.91375, 'eval_NMI': 0.751869002141372, 'eval_ARI': 0.7889133013820505, 'eval_loss': 0.3711204528808594, 'eval_runtime': 4.4156, 'eval_samples_per_second': 181.175, 'eval_steps_per_second': 90.587, 'epoch': 2.0}
+== Status ==
+Current time: 2022-05-12 17:29:36 (running for 00:01:27.94)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:41 (running for 00:01:33.01)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:46 (running for 00:01:38.03)
+Memory usage on this node: 8.4/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:51 (running for 00:01:43.07)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:29:56 (running for 00:01:48.09)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:01 (running for 00:01:53.13)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:06 (running for 00:01:58.15)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:11 (running for 00:02:03.19)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 RUNNING)
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status   | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+----------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | RUNNING  | 10.144.0.71:5553 | 2.49816e-05 |         0.91375 |   0.751869 |   0.788913 |
+| _objective_6822e_00001 | PENDING  |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING  |                  | 3.92798e-05 |                 |            |            |
++------------------------+----------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00000:
+  date: 2022-05-12_17-30-15
+  done: false
+  epoch: 3.0
+  eval_ARI: 0.8063260057884223
+  eval_NMI: 0.7627431750240762
+  eval_accuracy: 0.92125
+  eval_loss: 0.3925341069698334
+  eval_runtime: 4.4302
+  eval_samples_per_second: 180.581
+  eval_steps_per_second: 90.29
+  experiment_id: 729b7bbb3c374167891e9657fe07d20f
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8063260057884223
+  pid: 5553
+  time_since_restore: 124.87902402877808
+  time_this_iter_s: 43.35349774360657
+  time_total_s: 124.87902402877808
+  timestamp: 1652391015
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00000
+  
+Result for _objective_6822e_00000:
+  date: 2022-05-12_17-30-15
+  done: true
+  epoch: 3.0
+  eval_ARI: 0.8063260057884223
+  eval_NMI: 0.7627431750240762
+  eval_accuracy: 0.92125
+  eval_loss: 0.3925341069698334
+  eval_runtime: 4.4302
+  eval_samples_per_second: 180.581
+  eval_steps_per_second: 90.29
+  experiment_id: 729b7bbb3c374167891e9657fe07d20f
+  experiment_tag: 0_learning_rate=2.4982e-05
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8063260057884223
+  pid: 5553
+  time_since_restore: 124.87902402877808
+  time_this_iter_s: 43.35349774360657
+  time_total_s: 124.87902402877808
+  timestamp: 1652391015
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00000
+  
+[2m[36m(_objective pid=5553)[0m {'eval_accuracy': 0.92125, 'eval_NMI': 0.7627431750240762, 'eval_ARI': 0.8063260057884223, 'eval_loss': 0.3925341069698334, 'eval_runtime': 4.4302, 'eval_samples_per_second': 180.581, 'eval_steps_per_second': 90.29, 'epoch': 3.0}
+[2m[36m(_objective pid=5553)[0m {'train_runtime': 118.4703, 'train_samples_per_second': 81.033, 'train_steps_per_second': 16.207, 'train_loss': 0.3695854483793179, 'epoch': 3.0}
+== Status ==
+Current time: 2022-05-12 17:30:16 (running for 00:02:08.19)
+Memory usage on this node: 5.0/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 0/8 CPUs, 0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (2 PENDING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | PENDING    |                  | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:22 (running for 00:02:13.73)
+Memory usage on this node: 6.7/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5555)[0m {'loss': 1.39, 'learning_rate': 4.800355737501311e-05, 'epoch': 0.0}
+== Status ==
+Current time: 2022-05-12 17:30:27 (running for 00:02:18.75)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:32 (running for 00:02:23.79)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:37 (running for 00:02:28.80)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:42 (running for 00:02:33.84)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:47 (running for 00:02:38.86)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:52 (running for 00:02:43.90)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:30:57 (running for 00:02:48.92)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:02 (running for 00:02:53.96)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |                 |            |            |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00001:
+  date: 2022-05-12_17-31-03
+  done: false
+  epoch: 1.0
+  eval_ARI: 0.7331754497987525
+  eval_NMI: 0.7077468508489054
+  eval_accuracy: 0.885
+  eval_loss: 0.40664368867874146
+  eval_runtime: 4.4029
+  eval_samples_per_second: 181.697
+  eval_steps_per_second: 90.848
+  experiment_id: f2d52d2c51c74a84a72caf33097bc99a
+  hostname: b-3-94
+  iterations_since_restore: 1
+  node_ip: 10.144.0.71
+  objective: 0.7331754497987525
+  pid: 5555
+  time_since_restore: 43.61981463432312
+  time_this_iter_s: 43.61981463432312
+  time_total_s: 43.61981463432312
+  timestamp: 1652391063
+  timesteps_since_restore: 0
+  training_iteration: 1
+  trial_id: 6822e_00001
+  
+[2m[36m(_objective pid=5555)[0m {'eval_accuracy': 0.885, 'eval_NMI': 0.7077468508489054, 'eval_ARI': 0.7331754497987525, 'eval_loss': 0.40664368867874146, 'eval_runtime': 4.4029, 'eval_samples_per_second': 181.697, 'eval_steps_per_second': 90.848, 'epoch': 1.0}
+== Status ==
+Current time: 2022-05-12 17:31:08 (running for 00:02:59.58)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:13 (running for 00:03:04.63)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:18 (running for 00:03:09.64)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5555)[0m {'loss': 0.5124, 'learning_rate': 2.3013690872856728e-05, 'epoch': 1.56}
+== Status ==
+Current time: 2022-05-12 17:31:23 (running for 00:03:14.69)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:28 (running for 00:03:19.70)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:33 (running for 00:03:24.75)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:38 (running for 00:03:29.77)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.885   |   0.707747 |   0.733175 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00001:
+  date: 2022-05-12_17-31-39
+  done: false
+  epoch: 2.0
+  eval_ARI: 0.7987826155339294
+  eval_NMI: 0.7569062862529153
+  eval_accuracy: 0.9175
+  eval_loss: 0.38451388478279114
+  eval_runtime: 4.2984
+  eval_samples_per_second: 186.115
+  eval_steps_per_second: 93.057
+  experiment_id: f2d52d2c51c74a84a72caf33097bc99a
+  hostname: b-3-94
+  iterations_since_restore: 2
+  node_ip: 10.144.0.71
+  objective: 0.7987826155339294
+  pid: 5555
+  time_since_restore: 80.13665390014648
+  time_this_iter_s: 36.516839265823364
+  time_total_s: 80.13665390014648
+  timestamp: 1652391099
+  timesteps_since_restore: 0
+  training_iteration: 2
+  trial_id: 6822e_00001
+  
+[2m[36m(_objective pid=5555)[0m {'eval_accuracy': 0.9175, 'eval_NMI': 0.7569062862529153, 'eval_ARI': 0.7987826155339294, 'eval_loss': 0.38451388478279114, 'eval_runtime': 4.2984, 'eval_samples_per_second': 186.115, 'eval_steps_per_second': 93.057, 'epoch': 2.0}
+== Status ==
+Current time: 2022-05-12 17:31:43 (running for 00:03:35.12)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:48 (running for 00:03:40.14)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:53 (running for 00:03:45.19)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:31:58 (running for 00:03:50.20)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:03 (running for 00:03:55.27)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:08 (running for 00:04:00.28)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:13 (running for 00:04:05.33)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:18 (running for 00:04:10.34)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:24 (running for 00:04:15.39)
+Memory usage on this node: 8.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 PENDING, 1 RUNNING, 1 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00001 | RUNNING    | 10.144.0.71:5555 | 4.80286e-05 |         0.9175  |   0.756906 |   0.798783 |
+| _objective_6822e_00002 | PENDING    |                  | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00001:
+  date: 2022-05-12_17-32-24
+  done: false
+  epoch: 3.0
+  eval_ARI: 0.8096188780830778
+  eval_NMI: 0.768405974505829
+  eval_accuracy: 0.9225
+  eval_loss: 0.4016522467136383
+  eval_runtime: 4.5324
+  eval_samples_per_second: 176.505
+  eval_steps_per_second: 88.253
+  experiment_id: f2d52d2c51c74a84a72caf33097bc99a
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8096188780830778
+  pid: 5555
+  time_since_restore: 124.45459723472595
+  time_this_iter_s: 44.31794333457947
+  time_total_s: 124.45459723472595
+  timestamp: 1652391144
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00001
+  
+Result for _objective_6822e_00001:
+  date: 2022-05-12_17-32-24
+  done: true
+  epoch: 3.0
+  eval_ARI: 0.8096188780830778
+  eval_NMI: 0.768405974505829
+  eval_accuracy: 0.9225
+  eval_loss: 0.4016522467136383
+  eval_runtime: 4.5324
+  eval_samples_per_second: 176.505
+  eval_steps_per_second: 88.253
+  experiment_id: f2d52d2c51c74a84a72caf33097bc99a
+  experiment_tag: 1_learning_rate=4.8029e-05
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8096188780830778
+  pid: 5555
+  time_since_restore: 124.45459723472595
+  time_this_iter_s: 44.31794333457947
+  time_total_s: 124.45459723472595
+  timestamp: 1652391144
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00001
+  
+[2m[36m(_objective pid=5555)[0m {'eval_accuracy': 0.9225, 'eval_NMI': 0.768405974505829, 'eval_ARI': 0.8096188780830778, 'eval_loss': 0.4016522467136383, 'eval_runtime': 4.5324, 'eval_samples_per_second': 176.505, 'eval_steps_per_second': 88.253, 'epoch': 3.0}
+[2m[36m(_objective pid=5555)[0m {'train_runtime': 118.0636, 'train_samples_per_second': 81.312, 'train_steps_per_second': 16.262, 'train_loss': 0.41296012985209624, 'epoch': 3.0}
+== Status ==
+Current time: 2022-05-12 17:32:29 (running for 00:04:20.70)
+Memory usage on this node: 6.0/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5549)[0m {'loss': 1.39, 'learning_rate': 3.925929946533514e-05, 'epoch': 0.0}
+== Status ==
+Current time: 2022-05-12 17:32:34 (running for 00:04:25.76)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:39 (running for 00:04:30.77)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:44 (running for 00:04:35.80)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:49 (running for 00:04:40.81)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:54 (running for 00:04:45.84)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:32:59 (running for 00:04:50.84)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:04 (running for 00:04:55.87)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:09 (running for 00:05:00.87)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |                 |            |            |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00002:
+  date: 2022-05-12_17-33-12
+  done: false
+  epoch: 1.0
+  eval_ARI: 0.7767193505935657
+  eval_NMI: 0.7460100189522415
+  eval_accuracy: 0.90625
+  eval_loss: 0.37241822481155396
+  eval_runtime: 4.7367
+  eval_samples_per_second: 168.895
+  eval_steps_per_second: 84.448
+  experiment_id: 0619e15a6d9d449183796f37a0693420
+  hostname: b-3-94
+  iterations_since_restore: 1
+  node_ip: 10.144.0.71
+  objective: 0.7767193505935657
+  pid: 5549
+  time_since_restore: 45.43548369407654
+  time_this_iter_s: 45.43548369407654
+  time_total_s: 45.43548369407654
+  timestamp: 1652391192
+  timesteps_since_restore: 0
+  training_iteration: 1
+  trial_id: 6822e_00002
+  
+[2m[36m(_objective pid=5549)[0m {'eval_accuracy': 0.90625, 'eval_NMI': 0.7460100189522415, 'eval_ARI': 0.7767193505935657, 'eval_loss': 0.37241822481155396, 'eval_runtime': 4.7367, 'eval_samples_per_second': 168.895, 'eval_steps_per_second': 84.448, 'epoch': 1.0}
+== Status ==
+Current time: 2022-05-12 17:33:15 (running for 00:05:06.38)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:20 (running for 00:05:11.39)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:25 (running for 00:05:16.42)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:30 (running for 00:05:21.43)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5549)[0m {'loss': 0.4797, 'learning_rate': 1.8821550551385268e-05, 'epoch': 1.56}
+== Status ==
+Current time: 2022-05-12 17:33:35 (running for 00:05:26.46)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:40 (running for 00:05:31.46)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:45 (running for 00:05:36.49)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:33:50 (running for 00:05:41.50)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.90625 |   0.74601  |   0.776719 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00002:
+  date: 2022-05-12_17-33-51
+  done: false
+  epoch: 2.0
+  eval_ARI: 0.8292052426781189
+  eval_NMI: 0.7891117421292243
+  eval_accuracy: 0.93125
+  eval_loss: 0.35290810465812683
+  eval_runtime: 4.41
+  eval_samples_per_second: 181.404
+  eval_steps_per_second: 90.702
+  experiment_id: 0619e15a6d9d449183796f37a0693420
+  hostname: b-3-94
+  iterations_since_restore: 2
+  node_ip: 10.144.0.71
+  objective: 0.8292052426781189
+  pid: 5549
+  time_since_restore: 84.42026948928833
+  time_this_iter_s: 38.98478579521179
+  time_total_s: 84.42026948928833
+  timestamp: 1652391231
+  timesteps_since_restore: 0
+  training_iteration: 2
+  trial_id: 6822e_00002
+  
+[2m[36m(_objective pid=5549)[0m {'eval_accuracy': 0.93125, 'eval_NMI': 0.7891117421292243, 'eval_ARI': 0.8292052426781189, 'eval_loss': 0.35290810465812683, 'eval_runtime': 4.41, 'eval_samples_per_second': 181.404, 'eval_steps_per_second': 90.702, 'epoch': 2.0}
+== Status ==
+Current time: 2022-05-12 17:33:55 (running for 00:05:47.36)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:00 (running for 00:05:52.37)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:06 (running for 00:05:57.40)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:11 (running for 00:06:02.40)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:16 (running for 00:06:07.43)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:21 (running for 00:06:12.44)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:26 (running for 00:06:17.47)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+== Status ==
+Current time: 2022-05-12 17:34:31 (running for 00:06:22.47)
+Memory usage on this node: 8.2/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 8.0/8 CPUs, 1.0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (1 RUNNING, 2 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00002 | RUNNING    | 10.144.0.71:5549 | 3.92798e-05 |         0.93125 |   0.789112 |   0.829205 |
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+Result for _objective_6822e_00002:
+  date: 2022-05-12_17-34-35
+  done: false
+  epoch: 3.0
+  eval_ARI: 0.8181756344522227
+  eval_NMI: 0.776869829646358
+  eval_accuracy: 0.92625
+  eval_loss: 0.38276684284210205
+  eval_runtime: 4.3748
+  eval_samples_per_second: 182.865
+  eval_steps_per_second: 91.432
+  experiment_id: 0619e15a6d9d449183796f37a0693420
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8181756344522227
+  pid: 5549
+  time_since_restore: 128.0496244430542
+  time_this_iter_s: 43.62935495376587
+  time_total_s: 128.0496244430542
+  timestamp: 1652391275
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00002
+  
+Result for _objective_6822e_00002:
+  date: 2022-05-12_17-34-35
+  done: true
+  epoch: 3.0
+  eval_ARI: 0.8181756344522227
+  eval_NMI: 0.776869829646358
+  eval_accuracy: 0.92625
+  eval_loss: 0.38276684284210205
+  eval_runtime: 4.3748
+  eval_samples_per_second: 182.865
+  eval_steps_per_second: 91.432
+  experiment_id: 0619e15a6d9d449183796f37a0693420
+  experiment_tag: 2_learning_rate=3.928e-05
+  hostname: b-3-94
+  iterations_since_restore: 3
+  node_ip: 10.144.0.71
+  objective: 0.8181756344522227
+  pid: 5549
+  time_since_restore: 128.0496244430542
+  time_this_iter_s: 43.62935495376587
+  time_total_s: 128.0496244430542
+  timestamp: 1652391275
+  timesteps_since_restore: 0
+  training_iteration: 3
+  trial_id: 6822e_00002
+  
+== Status ==
+Current time: 2022-05-12 17:34:35 (running for 00:06:27.01)
+Memory usage on this node: 7.3/29.2 GiB
+Using FIFO scheduling algorithm.
+Resources requested: 0/8 CPUs, 0/1 GPUs, 0.0/15.29 GiB heap, 0.0/7.64 GiB objects (0.0/1.0 accelerator_type:V100)
+Result logdir: /home/yg2483/ray_results/_objective_2022-05-12_17-28-08
+Number of trials: 3/3 (3 TERMINATED)
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+| Trial name             | status     | loc              |          lr |   eval_accuracy |   eval_NMI |   eval_ARI |
+|------------------------+------------+------------------+-------------+-----------------+------------+------------|
+| _objective_6822e_00000 | TERMINATED | 10.144.0.71:5553 | 2.49816e-05 |         0.92125 |   0.762743 |   0.806326 |
+| _objective_6822e_00001 | TERMINATED | 10.144.0.71:5555 | 4.80286e-05 |         0.9225  |   0.768406 |   0.809619 |
+| _objective_6822e_00002 | TERMINATED | 10.144.0.71:5549 | 3.92798e-05 |         0.92625 |   0.77687  |   0.818176 |
++------------------------+------------+------------------+-------------+-----------------+------------+------------+
+
+
+[2m[36m(_objective pid=5549)[0m {'eval_accuracy': 0.92625, 'eval_NMI': 0.776869829646358, 'eval_ARI': 0.8181756344522227, 'eval_loss': 0.38276684284210205, 'eval_runtime': 4.3748, 'eval_samples_per_second': 182.865, 'eval_steps_per_second': 91.432, 'epoch': 3.0}
+[2m[36m(_objective pid=5549)[0m {'train_runtime': 121.7653, 'train_samples_per_second': 78.84, 'train_steps_per_second': 15.768, 'train_loss': 0.37149239170054593, 'epoch': 3.0}
+BestRun(run_id='6822e_00000', objective=0.8063260057884223, hyperparameters={'learning_rate': 2.49816047538945e-05})
